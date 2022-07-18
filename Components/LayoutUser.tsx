@@ -9,7 +9,7 @@ const LayoutUser = ({ children }: LayoutProps) => {
       <Header />
       {children}
       <Footer />
-      abc
+      abcd
     </>
   );
 };
